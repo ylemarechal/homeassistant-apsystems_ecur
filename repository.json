@@ -1,5 +1,6 @@
 {
   "name": "APSystems ECU-R",
+  "url": "https://github.com/ylemarechal/homeassistant-apsystems_ecur",
   "render_readme": true,
   "homeassistant": "2024.5.3"
 }
